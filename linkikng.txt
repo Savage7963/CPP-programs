@@ -1,0 +1,247 @@
+static linking 
+dynamic linking
+multitasking in os 
+drawbacks in static 
+crt 0 c runtime library (performs static linking )
+there's no outdated 
+never forget hcode size increses 
+
+(if library code changes then the changed lib  )
+
+WP
+^ 
+|
+HFzDg!!%HC4@b#K%KJm!
+
+
+/static/assists/css/style.css
+
+
+
+
+
+
+<!--============ Qualification ============ --> 
+<section class="qualification section">
+<h2 class="section_title"> Qualification </h2>
+<span class="section_subtitle"> My Journey </span>
+
+<div class="qualification_container container">
+    <div class="qualification_tabs">
+        <div class="qualification_button button--flex qualification_active" data-target='#education'>
+            <i class="uil uil-graduation-cap qualification_icon"></i> Education
+        </div>
+        <div class="qualification_button button--flex" data-target="#work">
+            <i class="uil uil-briefcase-alt qualification_icon"></i>
+            Work
+        </div>
+    </div>
+    <div class="qualification_sections">
+        <!-- Qualification Content will be typed Here -->
+        <div class="qualification_content qualification_active" data-content id=" education">
+            <!-- 1st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> Computer Engineer </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+                    <!-- 2st Qualification -->
+            <div class="qualification_data" data-content="work">
+                <div></div>
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+
+                <div>
+                    <h3 class="qualification_title"> Web Designer </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                
+            </div>
+                    <!-- 3st Qualification -->
+            <div class="qualification_data" data-content="">
+                <div>
+                    <h3 class="qualification_title"> General Assosiate Scrum Master </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+                    <!-- 4st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> Performance Analyst  </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+                    <!-- 5st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> Performance Analyst- Manager (Internship) </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+                <!-- 6st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> Performance Analyst - Senior Manager (Internship) </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+        </div>
+
+         <!-- Qualification Content will be typed Here -->
+         <div class="qualification_content">
+            <!-- 1st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> Computer Engineer </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+                    <!-- 2st Qualification -->
+            <div class="qualification_data">
+                <div></div>
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+
+                <div>
+                    <h3 class="qualification_title"> Web Designer </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                
+            </div>
+                    <!-- 3st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> General Assosiate Scrum Master </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+                    <!-- 4st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> Performance Analyst  </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+                    <!-- 5st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> Performance Analyst- Manager (Internship) </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+                <!-- 6st Qualification -->
+            <div class="qualification_data">
+                <div>
+                    <h3 class="qualification_title"> Performance Analyst - Senior Manager (Internship) </h3>
+                    <span class="qualification_subtitle"> Zeal Polytechnic </span>
+                    <div class="qualification_calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        200_ - 2023
+                    </div>
+                </div>
+
+                <div>
+                    <span class="qualification_rounder"></span>
+                    <span class="qualification_line"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
